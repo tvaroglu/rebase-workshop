@@ -8,7 +8,6 @@ CONTENTS OF THIS FILE
  * Recommended modules
  * Installation
  * Configuration
- * Troubleshooting
 
  INTRODUCTION
 ------------
@@ -18,8 +17,6 @@ REQUIREMENTS
 ------------
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Elementum facilisis leo vel fringilla est ullamcorper eget. Eget arcu dictum varius duis. At imperdiet dui accumsan sit amet.
 
-Do the things!
-
 RECOMMENDED MODULES
 -------------------
 - Eget nunc
@@ -27,7 +24,6 @@ RECOMMENDED MODULES
 - Vulputate enim
 - Nulla aliquet
 - Porttitor lacus
-- Other stuff
 
 INSTALLATION
 ------------
